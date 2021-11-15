@@ -19,6 +19,6 @@ _yay_
 ### Test
 ![Test](/docs/assets/videos/protection.mp4)
 ### Test
-![Test](/docs/assets/videos/protection)
+![Test](https://laserrock46.github.io/docs/assets/videos/protection.mp4)
 
 [back](./)
