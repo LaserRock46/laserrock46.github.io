@@ -15,4 +15,6 @@ _yay_
 
 ![Octocat](https://image.ceneostatic.pl/data/products/2735398/i-tool-10-000-days-cd.jpg)
 
+![Test](/assets/images/Alex_Grey_Liberation_Through_Seeing.jpg)
+
 [back](./)
