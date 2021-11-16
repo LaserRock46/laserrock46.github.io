@@ -21,7 +21,7 @@ _yay_
 ### Test
 <iframe width="560" height="315" src="/docs/assets/videos/protection.mp4" title="video player" loop="" autoplay="" playsinline="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Test Loop
-<video width="100%" title="Protection Analysis." loop="" autoplay="" playsinline="" muted="true" allowfullscreen="true">
+<video width="100%" title="Protection Analysis." controls="" loop="" autoplay="" playsinline="" muted="true" allowfullscreen="true">
 <source src="/docs/assets/videos/protection.mp4" type="video/mp4">
 </video>
 # [back](./)
