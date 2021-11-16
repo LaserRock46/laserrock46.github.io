@@ -20,5 +20,8 @@ _yay_
 ![Test](/docs/assets/images/2137-papaj.gif)
 ### Test
 <iframe width="560" height="315" src="/docs/assets/videos/protection.mp4" title="video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+### Test Loop
+<video width="70%" title="Stylized water shader." loop="" autoplay="" playsinline="" muted="true" class="note-video">
+<source src="/docs/assets/videos/protection.mp4" type="video/mp4">
+</video>
 [back](./)
