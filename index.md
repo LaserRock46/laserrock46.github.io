@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Czesc!
+title: Czeœæ!
 description: Test
 ---
 test
