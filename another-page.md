@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Czeœæ!
+description: Jestem Robert Bia³y i od 3 lat uczê siê tworzyæ gry w Unity3D.
 ---
 
 ## Welcome to another page
