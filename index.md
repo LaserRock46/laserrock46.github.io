@@ -8,7 +8,9 @@ description: Jestem Robert Biały i uczę się tworzyć gry w Unity3D a to jest 
 [Zobacz więcej >>](./sword-combat.html)
 
 ### Protection analysis z War Thunder
-
+<video width="50%" title="Protection Analysis." controls="" loop="" autoplay="" playsinline="" muted="true">
+<source src="/docs/assets/videos/protection2.mp4" type="video/mp4">
+</video>
 [Zobacz więcej >>](./protection-analysis.html)
 
 ### Conveyor Belts z Satisfactory
