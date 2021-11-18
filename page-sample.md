@@ -3,7 +3,7 @@ layout: default
 title: Page Sample
 description: This is sample page
 ---
-# G³ówne Cechy
+# GÅ‚Ã³wne Cechy
 
 # Wyzwania
 
