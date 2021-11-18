@@ -14,7 +14,8 @@ description: Jestem Robert Biały i uczę się tworzyć gry w Unity3D a to jest 
 [Zobacz więcej >>](./protection-analysis.html)
 
 ### Conveyor Belts z Satisfactory
-
+<video width="50%" title="Conveyor Belts" loop="" autoplay="" playsinline="" muted="true">
+<source src="https://v.redd.it/7bzxichn2a071/HLSPlaylist.m3u8?a=1639841308%2CZDJlMTQwYjY0MGVlOTlhNzk0Y2Q0NDYwMTVkNjQxNWNkODZkZDEwNWNiOTViMGUzZDJlNjQ0YzllZjg1MTc2Mw%3D%3D&v=1&f=sd" type="video/mp4">
 [Zobacz więcej >>](./conveyor-belts.html)
 
 ### Projekt hypercasualowej gry mobilnej
