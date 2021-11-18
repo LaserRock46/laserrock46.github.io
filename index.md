@@ -15,7 +15,7 @@ description: Jestem Robert Biały i uczę się tworzyć gry w Unity3D a to jest 
 
 ### Conveyor Belts z Satisfactory
 <video width="50%" title="Conveyor Belts" loop="" autoplay="" playsinline="" muted="true">
-<source src="https://v.redd.it/7bzxichn2a071/DASH_720.mp4?source=fallback.gif" type="video/mp4">
+<source src="https://v.redd.it/7bzxichn2a071/DASH_720.mp4" type="video/mp4">
 </video>
 [Zobacz więcej >>](./conveyor-belts.html)
 
@@ -24,5 +24,7 @@ description: Jestem Robert Biały i uczę się tworzyć gry w Unity3D a to jest 
 [Zobacz więcej >>](./hypercasual-game.html)
 
 ### Tesla Energy Graph
-
+<video width="50%" title="Conveyor Belts" loop="" autoplay="" playsinline="" muted="true">
+<source src="https://v.redd.it/0sgqgz9r92m41/DASH_480" type="video/mp4">
+</video>
 [Zobacz więcej >>](./tesla-energy-graph.html)
