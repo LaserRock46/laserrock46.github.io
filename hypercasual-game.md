@@ -3,8 +3,8 @@ layout: default
 title: Page Sample
 description: This is sample page
 ---
-# Główne Cechy
+## Główne Cechy
 
-# Wyzwania
+## Wyzwania
 
 ## [back](./)
