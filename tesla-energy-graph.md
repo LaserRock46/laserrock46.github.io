@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Page Sample
-description: This is sample page
+title: Tesla Energy Graph
+description: Odtworzyłem wygląd panelu energii z Tesli Model 3. Ten komponent może zostać łatwo zaimplementowany w jakiejś grze ekonomicznej. 
 ---
-# Główne Cechy
+<video width="100%" title="Tesla Energy Graph" loop="" autoplay="" playsinline="" muted="true">
+<source src="https://v.redd.it/0sgqgz9r92m41/DASH_720" type="video/mp4">
+</video>
+## Główne Cechy
 
-# Wyzwania
+## Wyzwania
 
 ## [back](./)
