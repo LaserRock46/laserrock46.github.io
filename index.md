@@ -20,7 +20,10 @@ description: Jestem Robert Biały i uczę się tworzyć gry w Unity3D a to jest 
 [Zobacz więcej >>](./conveyor-belts.html)
 
 ### Projekt hypercasualowej gry mobilnej
-
+<video width="60%" title="Hypercasual" loop="" autoplay="" playsinline="" muted="true">
+<source src="https://v.redd.it/h0qwgkgnqj081/DASH_480.mp4" type="video/mp4">
+</video>
+https://v.redd.it/h0qwgkgnqj081/DASH_1080.mp4
 [Zobacz więcej >>](./hypercasual-game.html)
 
 ### Tesla Energy Graph
