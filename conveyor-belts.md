@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Page Sample
+title: Conveyor Belts z Satisfactory
 description: This is sample page
 ---
+<video width="100%" title="Conveyor Belts" loop="" autoplay="" playsinline="" muted="true">
+<source src="https://v.redd.it/7bzxichn2a071/DASH_720.mp4" type="video/mp4">
+</video>
 # Główne Cechy
 
 # Wyzwania
