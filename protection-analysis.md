@@ -10,6 +10,6 @@ description: This is sample page
 
 ## Wyzwania
 
-  <img src="/docs/assets/images/Silhouette Image000.png" style="width: 100%;"></a>
+  <img src="/docs/assets/images/Silhouette Image000.png" style="width: 100%;">
 
 ## [back](./)
