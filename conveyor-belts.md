@@ -16,7 +16,7 @@ description: This is sample page
 ### Jak uzyskać właściwy kształt?
 
 <video width="100%" title="Conveyor Belts Shape" loop="" autoplay="" playsinline="" muted="true">
-<source src="https://v.redd.it/sn8q7sdxqj081/DASH_480.mp4" type="video/mp4">
+<source src="https://v.redd.it/sn8q7sdxqj081/DASH_720.mp4" type="video/mp4">
 </video>
 
 ### Importowanie własnych modeli
