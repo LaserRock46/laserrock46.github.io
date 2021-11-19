@@ -10,6 +10,12 @@ description: This is sample page
 
 ## Wyzwania
 
-  <img src="/docs/assets/images/Silhouette Image000.png" title="Silhouette Shader" style="width: 100%;">
+### Powtarzalny wynik niezależnie od prędkości pocisków
+
+### Point Outline Shader
+
+<img src="/docs/assets/images/Silhouette Image000.png" title="Silhouette Shader" style="width: 100%;">
+
+### Problem z sortowaniem transparentnych obiektów
 
 ## [back](./)
