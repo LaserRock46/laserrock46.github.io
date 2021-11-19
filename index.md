@@ -11,22 +11,26 @@ description: Jestem Robert Biały i uczę się tworzyć gry w Unity3D a to jest 
 <video width="60%" title="Protection Analysis." loop="" autoplay="" playsinline="" muted="true">
 <source src="https://v.redd.it/ks9rkmlzlj081/DASH_480.mp4" type="video/mp4">
 </video>
+
 [Zobacz więcej >>](./protection-analysis.html)
 
 ### Conveyor Belts z Satisfactory
 <video width="60%" title="Conveyor Belts" loop="" autoplay="" playsinline="" muted="true">
 <source src="https://v.redd.it/7bzxichn2a071/DASH_480.mp4" type="video/mp4">
 </video>
+
 [Zobacz więcej >>](./conveyor-belts.html)
 
 ### Projekt hypercasualowej gry mobilnej
 <video width="30%" title="Hypercasual" loop="" autoplay="" playsinline="" muted="true">
 <source src="https://v.redd.it/h0qwgkgnqj081/DASH_480.mp4" type="video/mp4">
 </video>
+
 [Zobacz więcej >>](./hypercasual-game.html)
 
 ### Tesla Energy Graph
 <video width="60%" title="Tesla Energy Graph" loop="" autoplay="" playsinline="" muted="true">
 <source src="https://v.redd.it/0sgqgz9r92m41/DASH_480" type="video/mp4">
 </video>
+
 [Zobacz więcej >>](./tesla-energy-graph.html)
