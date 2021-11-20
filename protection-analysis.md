@@ -20,6 +20,7 @@ description: This is sample page
 
 ### Optymalne rysowanie setek czerwonych punktów
 
+<script src="https://gist.github.com/LaserRock46/66f90cb24b09bc5c58a1dd5b4aa212af.js"></script>
 
 ### Problem z sortowaniem transparentnych obiektów
 
