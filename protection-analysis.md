@@ -20,6 +20,10 @@ description: This is sample page
 
 ### Optymalne rysowanie setek czerwonych punktów
 
+Czerwone punkty (HitPoints) są renderowane w czasie trawnia Coroutine przez Graphics.DrawMesh dzięki czemu nie trzeba tworzyć i zarządzać obiektami. 
+Użycie MaterialPropertyBlock daje możliwość ustawiania alphy dla każdego punktu indywidualnie bez tworzenia setek instacji materiału które mogłyby obciążyć pamięć.
+Podczas symulacji w jednym momencie na ekranie może być nawet 300 punktów.
+
 <script src="https://gist.github.com/LaserRock46/66f90cb24b09bc5c58a1dd5b4aa212af.js"></script>
 
 ### Problem z sortowaniem transparentnych obiektów
