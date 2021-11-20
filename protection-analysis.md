@@ -18,6 +18,9 @@ description: This is sample page
 
 <img src="/docs/assets/images/Silhouette Image000.png" title="Silhouette Shader" style="width: 100%;">
 
+### Optymalne rysowanie setek czerwonych punktów
+
+
 ### Problem z sortowaniem transparentnych obiektów
 
 ## [back](./)
