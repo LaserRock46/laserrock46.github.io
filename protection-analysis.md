@@ -22,7 +22,7 @@ description: This is sample page
 
 Czerwone punkty (HitPoints) są renderowane w czasie trawnia Coroutine przez Graphics.DrawMesh dzięki czemu nie trzeba tworzyć i zarządzać obiektami. 
 
-Użycie MaterialPropertyBlock daje możliwość ustawiania alphy dla każdego punktu indywidualnie bez tworzenia setek instacji materiału które mogłyby obciążyć pamięć.
+Użycie MaterialPropertyBlock daje możliwość ustawiania alphy dla każdego punktu indywidualnie bez tworzenia setek instancji materiału które mogłyby obciążyć pamięć.
 
 Podczas symulacji w jednym momencie na ekranie może być nawet 300 punktów.
 
