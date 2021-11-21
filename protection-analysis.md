@@ -14,6 +14,12 @@ description: This is sample page
 
 ### Powtarzalny wynik niezależnie od prędkości pocisków
 
+Symulacja penetracji jest oparta na Raycastach dzięki czemu obciążenie cpu obliczaniem fizyki trwa tylko jedną klatkę a nie przez cały czas trwania symulacji tak jak w przypadku użycia rigidbodies i nie trzeba się martwić o overshooting colliderów.
+
+Przy wystrzale z użyciem RaycastAll() są generowane kolizje ze wszystkimi obiektami na trasie lotu po czym startuje Coroutine trwająca przez czas lotu i wywołuje metodę  ExecuteProjectileCollision(float coverage) która na podstawie dystansu pokonanego przez pocisk zadaje obrażenia celom które się z nim spotkały. 
+
+<script src="https://gist.github.com/LaserRock46/cca00c6096a5089699b5bf67c94c1ea2.js"></script>
+
 ### Point Outline Shader
 
 <img src="/docs/assets/images/Silhouette Image000.png" title="Silhouette Shader" style="width: 100%;">
