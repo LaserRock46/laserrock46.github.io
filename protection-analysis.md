@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Protection Analysis z War Thunder
-description: This is sample page
+description: System wizualizacji obrażen który dodaje mnóstwo soczostości do wrażeń z gry
 ---
 
 <video width="100%" title="Protection Analysis." loop="" autoplay="" playsinline="" muted="true">
@@ -9,6 +9,9 @@ description: This is sample page
 </video>
 
 ## Główne Cechy
+
+* Uproszczony system penetracji
+* Wizualizacje odwzorowane niemal 1:1 jak w WT
 
 ## Wyzwania
 
@@ -21,6 +24,12 @@ Przy wystrzale z użyciem RaycastAll() są generowane kolizje ze wszystkimi obie
 <script src="https://gist.github.com/LaserRock46/cca00c6096a5089699b5bf67c94c1ea2.js"></script>
 
 ### Point Outline Shader
+
+Przy użyciu drugiej kamery jest tworzona RenderTexture z sylwetką czołgu. 
+
+Textura ta trafia do shadera gdzie w ograniczonym promienu dodawany jest zielony outline.
+
+Następnie na quad dopasowany do frustum kamery trafia materiał z outlinem.
 
 <img src="/docs/assets/images/Silhouette Image000.png" title="Silhouette Shader" style="width: 100%;">
 
