@@ -36,6 +36,6 @@ Podczas symulacji w jednym momencie na ekranie może być nawet 300 punktów.
 
 ### Problem z sortowaniem transparentnych obiektów
 
-Niektóre obiekty z niebieskim materiałem x-ray mimo że znajdowały się dalej były rysowane przed obiektami z przodu. W unity sortowanie transparentych meshy zależy od odgległości punktu początkowego mesha do kamery więc trzeba zadbać by origin był w centrum geometrii a w przypadku dużych obiektów jak gąsienice pomogło pocięcie na mniejsze kawałki. 
+Niektóre obiekty z niebieskim materiałem x-ray mimo że znajdowały się dalej były rysowane przed obiektami z przodu. W unity sortowanie transparentych meshy zależy od odległości punktu początkowego mesha do kamery więc trzeba zadbać by origin był w centrum geometrii a w przypadku dużych obiektów jak gąsienice pomogło pocięcie na mniejsze kawałki. 
 
 ## [back](./)
