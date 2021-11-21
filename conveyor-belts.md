@@ -9,6 +9,11 @@ description: System budowania przenośników taśmowych znany z gier factory bui
 
 ## Główne Cechy
 
+* Możliwość budowania i łączenia ze sobą przenośników taśmowych
+* W pełni funkcjonalne przenośniki, transportują i przekazują towary między sobą
+* System zapobiegający budowaniu przenośników nie spełniającyh wymagań jak długość, nachylenie, koszt, kolizja z innymi obiektami
+* Możliwość importowania własnych modeli przenośników
+
 ## Wyzwania
 
 ### Optymalizacja
