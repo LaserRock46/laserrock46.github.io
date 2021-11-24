@@ -18,7 +18,10 @@ description: System budowania przenośników taśmowych znany z gier factory bui
 
 ### Optymalizacja
 
-Jeden materiał dla ruchomych i statycznych części pasa. Użycie w meshu vertex color koloru zielonego oznacza które miejsca będą animowane przez materiał.
+* Mesh jest generowany tylko raz po zmianie pozycji
+* Jest możliowść importowania uproszczonego mesh dla collidera
+* Funkcja regulowania LOD(ilość pętli w pasie) na podstawie kąta tolerancji między punktami. 
+* Jeden materiał dla ruchomych i statycznych części pasa. Użycie w meshu vertex color koloru zielonego oznacza które miejsca będą animowane przez materiał
 
 <img src="/docs/assets/images/Zrzut ekranu (36).png" title="" style="width: 50%;">
 
@@ -38,6 +41,10 @@ Do tworzenia łuków nie używam żadnych algorytmów jak bezier ponieważ mają
 <script src="https://gist.github.com/LaserRock46/d30606c007ca58af157257124ad4ec38.js"></script>
 
 ### Importowanie własnych modeli
+
+Stworzyłem skrypt który przechwytywuje i sortuje dane z meshów stworzonych w programach do grafiki 3D. Dane te są przechowywane w Scriptable Object i używane przez komponent odpowiedzialny za ekstrudowanie mesha.
+
+Modele muszą spełniać takie warunki jak posiadanie dwóch symetrycznych pętli, vertex color dla elementów ruchomych i uv.
 
 <img src="/docs/assets/images/Zrzut ekranu (35).png" title="" style="width: 50%;">
 
