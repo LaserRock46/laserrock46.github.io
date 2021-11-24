@@ -24,6 +24,9 @@ description: System budowania przenośników taśmowych znany z gier factory bui
 <source src="https://v.redd.it/sn8q7sdxqj081/DASH_720.mp4" type="video/mp4">
 </video>
 
+Do tworzenia łuków nie używam żadnych algorytmów jak bezier bo mają swoje ograniczenia.
+Szukanie łuków polega na stworzeniu list transformów
+
 ### Importowanie własnych modeli
 
 ### Płynny ruch obiektów na pasie
@@ -31,5 +34,7 @@ description: System budowania przenośników taśmowych znany z gier factory bui
 <video width="100%" title="Conveyor Belts" loop="" autoplay="" playsinline="" muted="true">
 <source src="https://v.redd.it/ygo2mjs3tj081/DASH_720.mp4" type="video/mp4">
 </video>
+
+
 
 ## [back](./)
