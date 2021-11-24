@@ -18,6 +18,8 @@ description: System budowania przenośników taśmowych znany z gier factory bui
 
 ### Optymalizacja
 
+Jeden materiał dla ruchomych i statycznych części pasa. Użycie w meshu vertex color koloru zielonego oznacza które miejsca będą animowane przez materiał.
+
 <img src="/docs/assets/images/Zrzut ekranu (36).png" title="" style="width: 50%;">
 
 ### Jak uzyskać właściwy kształt?
