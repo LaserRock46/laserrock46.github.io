@@ -31,7 +31,7 @@ Do tworzenia łuków nie używam żadnych algorytmów jak bezier ponieważ mają
 * Szukanie łuków polega na uformowaniu dla każdego końca pasa dwóch okręgów z transformów po lewej i prawej stronie (oznaczone białym kolorem). 
 * Następnie funkcja GetNearestPoints() szuka najbliższe okregi dla przeciwnego końca.
 * Funkcja GetArcEndPointsIndex() porównuje listy Transformów z najbliższych okręgów szukając punktów o najbardziej podobnej rotacji i zwraca ich indexy z tablic w których się znajudują. Indexy to oznaczają w którym miejscu okręgu kończy się łuk.
-* I w końcu funkcja GetArcPoints() zwraca tablicę transformów z łukiem wyciętym z okręgu.
+* I w końcu funkcja GetArcPoints() zwraca tablicę transformów z łukiem wyciętym z okręgu. (Wycięty łuk oznaczono kolorem czerwonym)
 
 <script src="https://gist.github.com/LaserRock46/d30606c007ca58af157257124ad4ec38.js"></script>
 
