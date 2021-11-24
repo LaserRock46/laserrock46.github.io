@@ -45,6 +45,13 @@ Do tworzenia łuków nie używam żadnych algorytmów jak bezier ponieważ mają
 <source src="https://v.redd.it/ygo2mjs3tj081/DASH_720.mp4" type="video/mp4">
 </video>
 
+Kiedy zrobiłem show-off tego projektu na reddit, kilka osób zapytało mnie jak zrobić by obiekty na pasie poruszały się w taki sposób bez użycia fizyki więc uznałem że warto to opisać tutaj.
+
+Realistyczną orientację obiektu na pasie można uzyskać poprzez skierowanie go w punkt który stanowi pozycję obiektu na pasie + połowa długości obiektu.
+
+Przy użyciu funkcji GetLookAtPosition() zwracana jest pozycja na który ma patrzeć transform, następnie dzięki GetTransformDirection() jest uzyskiwany kierunek dla transform.forward.
+
+<script src="https://gist.github.com/LaserRock46/b64ce390094cef99aae99932a7185c67.js"></script>
 
 
 ## [back](./)
