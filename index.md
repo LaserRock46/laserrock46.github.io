@@ -29,8 +29,7 @@ description: Jestem Robert Biały i uczę się tworzyć gry w Unity3D a to jest 
 [Zobacz więcej >>](./hypercasual-game.html)
 
 ### Tesla Energy Graph
-<video width="60%" title="Tesla Energy Graph" loop="" autoplay="" playsinline="" muted="true">
+<video width="60%" title="Odtworzyłem wygląd panelu energii z Tesli Model 3. Ten komponent może zostać łatwo zaimplementowany w jakiejś grze ekonomicznej." loop="" autoplay="" playsinline="" muted="true">
 <source src="https://v.redd.it/0sgqgz9r92m41/DASH_480" type="video/mp4">
 </video>
 
-[Zobacz więcej >>](./tesla-energy-graph.html)
