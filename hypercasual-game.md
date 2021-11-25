@@ -15,6 +15,6 @@ Gra polega na wyczuciu odpowiedniego momentu i rzucie kawałkiem lukę oddaloneg
 
 ### System sterowania
 
-Stworzyłem intuicyjny system sterowania One Tap który dopasowuje się do rozmiaru ekranu, bierze pod uwagę safe area i to z której strony gracz przesunie palcem. 
+Stworzyłem intuicyjny system sterowania One Finger który dopasowuje się do rozmiaru ekranu, bierze pod uwagę safe area i to z której strony gracz przesunie palcem. 
 
 ## [back](./)
