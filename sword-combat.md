@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Protoyp walki mieczem
+title: Prototyp walki mieczem
 description: This is sample page
 ---
 ## Główne Cechy
