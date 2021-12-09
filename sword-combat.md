@@ -7,4 +7,8 @@ description: This is sample page
 
 ## Wyzwania
 
+### Headbob
+
+### Clipping głowy postaci gracza
+
 ## [back](./)
