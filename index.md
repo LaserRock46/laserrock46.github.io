@@ -3,9 +3,6 @@ layout: default
 title: Cześć!
 description: Jestem Robert Biały i uczę się tworzyć gry w Unity3D a to jest strona z moim portfolio.
 ---
-### Prototyp walki mieczem
-
-[Zobacz więcej >>](./sword-combat.html)
 
 ### Protection analysis z War Thunder
 <video width="60%" title="Protection Analysis." loop="" autoplay="" playsinline="" muted="true">
