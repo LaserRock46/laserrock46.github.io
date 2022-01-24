@@ -9,10 +9,10 @@ description: Robert Biały
 
 #### Unity 
 
-* Tworzenie procedrulnych meshy
+* Tworzenie proceduralnych meshy
 * Shader Graph
 * Animator
-* Animation Rigging
+* Animation Rigging Packege
 * Optymalizacja, Profiler
 
 #### Blender (Podstawy)
