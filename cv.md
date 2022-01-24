@@ -23,5 +23,9 @@ description: Robert Biały
 
 Akademia Szkolnictwa w Inowrocławiu - kierunek monter zabudowy i robót wykończeniowych w budownictwie
 
+### Zainteresowania
+
+Jakie gry lubie?
+
 
 ## [back](./)
