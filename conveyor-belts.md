@@ -42,7 +42,7 @@ Do tworzenia łuków nie używam żadnych algorytmów jak bezier ponieważ mają
 
 ### Importowanie własnych modeli
 
-Stworzyłem skrypt który przechwytywuje i sortuje dane z meshów stworzonych w programach do grafiki 3D. Dane te są przechowywane w Scriptable Object i używane przez komponent odpowiedzialny za ekstrudowanie mesha.
+Stworzyłem skrypt który przechwytywuje i sortuje dane z meshów stworzonych w programach do grafiki 3D. Dane te są przechowywane w Scriptable Object i używane przez komponent odpowiedzialny za ekstrudowanie mesha. W SO znajduję się lista z pętlą vertexów i tablicą z obliczoną triangulacją dla określonej liczby pętli.
 
 
 Modele muszą spełniać takie warunki jak posiadanie dwóch symetrycznych pętli, vertex color dla elementów ruchomych i uv.
@@ -50,6 +50,8 @@ Modele muszą spełniać takie warunki jak posiadanie dwóch symetrycznych pętl
 <img src="/docs/assets/images/Zrzut ekranu (35).png" title="" style="width: 50%;">
 
 ### Ekstrudowanie mesha
+
+Komponent odpowiedzialny za tworzenie mesha na podstawie listy zorientowanych punktów i tablic zawierającyh informację o vertexach i triangulacji. 
 
 <script src="https://gist.github.com/LaserRock46/fab8f0f65441fb07346467969fe242f4.js"></script>
 
