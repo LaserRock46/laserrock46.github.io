@@ -19,10 +19,6 @@ description: Robert Biały
 
 #### Gimp (Podstawy)
 
-### Edukacja
-
-Akademia Szkolnictwa w Inowrocławiu - kierunek monter zabudowy i robót wykończeniowych w budownictwie
-
 ### Zainteresowania
 
 Jakie gry lubie?
