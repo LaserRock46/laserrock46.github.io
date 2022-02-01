@@ -28,6 +28,11 @@ Chciałbym zdobyć umiejętność pisania wysokiej jakości kodu i obsługi komp
 
 Moim ulubionym gatunkiem jest Vehicle Combat (War Thunder, World of Tanks, Crossout)
 
+W grach cenię sobie:
+* Innowacyjne mechaniki mające na celu zwiększenie realizmu (Exanima: systemy walki i poruszania w pełni oparte na fizyce)
+* Możliwość wywołania prawdziwego strachu czy adrenaliny poprzez odpowiednio zaprojektowany gameplay (PUBG, Rust)
+* AI
+
 #### Muzyka
 
 Najbardziej lubię słuchać Tool
