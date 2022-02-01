@@ -4,6 +4,9 @@ title: CV
 description: Robert Biały
 ---
 
+### Cel
+
+Chciałbym zdobyć umiejętność pisania wysokiej jakości kodu i obsługi komponentów Unity odpowiedzialnych za grafikę.
 
 ### Umiejętności
 
@@ -21,7 +24,13 @@ description: Robert Biały
 
 ### Zainteresowania
 
-Jakie gry lubie?
+#### Gry
+
+Moim ulubionym gatunkiem jest Vehicle Combat (War Thunder, World of Tanks, Crossout)
+
+#### Muzyka
+
+Najbardziej lubię słuchać Tool
 
 
 ## [back](./)
