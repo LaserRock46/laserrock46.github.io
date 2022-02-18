@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Devlog #1 Kalkulator Penetracji
-description: 
+description: Udało mi się zaimplementować wiele mechanik z systemów penetracji War Thunder
 ---
 
 
