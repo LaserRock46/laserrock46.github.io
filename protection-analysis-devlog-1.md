@@ -5,8 +5,11 @@ description: Udało mi się zaimplementować wiele mechanik z systemów penetrac
 ---
 
 
-<video width="110%" title="" loop="" autoplay="" playsinline="" muted="true">
+<video width="110%" title="a" loop="" autoplay="" playsinline="" muted="true">
 <source src="https://v.redd.it/ukg883sa4ni81/DASH_720.mp4" type="video/mp4">
+</video>
+<video width="110%" title="a" loop="" autoplay="" playsinline="" muted="true">
+<source src="https://v.redd.it/ukg883sa4ni81/DASH_1080.mp4" type="video/mp4">
 </video>
 
 
