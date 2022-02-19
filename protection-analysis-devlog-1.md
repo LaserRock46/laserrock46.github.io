@@ -51,7 +51,7 @@ Czerwona linia zaczyna się w miejscu w które trafił raycast a kończy na tyln
 Jak widać obliczenia pokrywają się z rzeczywistą grubością mesha. Pod kątem 60* efektywna grubość podwaja się, również w War Thunder pod tym samym kątem grubość się podwoiła co oznacza że algorytm działa.
 
 Algorytm polega na sprawdzeniu odległości od punktu uderzenia (armorFrontSurface) do punktu przecięcia z płaszczyzną (armorBackSurface).
-Pozycja (armorBackSurface) jest odsunięta na podstawie normal vector miejsca w które uderzył pocisk i grubości pancerza.
+Pozycja (armorBackSurface) jest odsunięta w kierunku normal vector miejsca w które uderzył pocisk i grubości pancerza.
 
 <script src="https://gist.github.com/LaserRock46/97423155de41946796df2f54e5456e99.js"></script>
 
