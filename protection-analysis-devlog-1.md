@@ -33,7 +33,8 @@ Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględni
 <source src="/docs/assets/videos/Armor Panels.mp4" type="video/mp4">
 </video>
 
-
+Tutaj przydała się umiejętność obsługi blendera, model został pocięty na elementy pancerza i oczyszczony z zbędnych detali które mogły by wpłynąć na wyniki.
+Każdy mesh zawiera collider i komponent ArmorPanel w którym są zapisane grubość i typ pancerza.
 
 #### Efektywna grubość pancerza
 
