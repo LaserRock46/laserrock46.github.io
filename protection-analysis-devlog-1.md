@@ -9,6 +9,10 @@ description: Udało mi się zaimplementować wiele mechanik z systemów penetrac
 <source src="https://v.redd.it/ukg883sa4ni81/DASH_720.mp4" type="video/mp4">
 </video>
 
+### Source
+
+https://github.com/LaserRock46/WT-XRay
+
 ### Funkcje
 
 System wyświetla informacje o:
@@ -20,6 +24,26 @@ System wyświetla informacje o:
 * Konstrukcyjny kąt nachylenia pancerza
 
 Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględnieniem jej utraty na dystansie i uwzględnieniu kąta przy którym pocisk na pewno zrykoszetuje system oceniania czy jest możliwa penetracja lub rykoszet.
+
+### Implementacja
+
+#### Elementy pancerza
+
+<video width="100%" title="" loop="" autoplay="" playsinline="" muted="true">
+<source src="https://v.redd.it/ukg883sa4ni81/DASH_720.mp4" type="video/mp4">
+</video>
+
+
+
+#### Efektywna grubość pancerza
+
+<video width="100%" title="" loop="" autoplay="" playsinline="" muted="true">
+<source src="https://v.redd.it/ukg883sa4ni81/DASH_720.mp4" type="video/mp4">
+</video>
+
+
+#### Pozostałe czynniki
+
 
 
 ## [back](./)
