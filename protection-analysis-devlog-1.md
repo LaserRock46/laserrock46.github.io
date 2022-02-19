@@ -38,7 +38,7 @@ Każdy mesh zawiera collider i komponent ArmorPanel w którym są zapisane grubo
 
 W skrypcie ArmorTypesData są zapisane rodzaje pancerza i współczynnik RHA
 
-<script src="https://gist.github.com/LaserRock46/0fc301530d2f9433ad49d954d342e1ad"></script>
+<script src="https://gist.github.com/LaserRock46/0fc301530d2f9433ad49d954d342e1ad.js"></script>
 
 #### Efektywna grubość pancerza
 
