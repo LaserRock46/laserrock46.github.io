@@ -30,7 +30,7 @@ Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględni
 #### Elementy pancerza
 
 <video width="100%" title="" loop="" autoplay="" playsinline="" muted="true">
-<source src="https://v.redd.it/ukg883sa4ni81/DASH_720.mp4" type="video/mp4">
+<source src="/docs/assets/videos/Armor Panels.mp4" type="video/mp4">
 </video>
 
 
@@ -38,7 +38,7 @@ Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględni
 #### Efektywna grubość pancerza
 
 <video width="100%" title="" loop="" autoplay="" playsinline="" muted="true">
-<source src="https://v.redd.it/ukg883sa4ni81/DASH_720.mp4" type="video/mp4">
+<source src="/docs/assets/videos/Test Effective Thickness.mp4" type="video/mp4">
 </video>
 
 
