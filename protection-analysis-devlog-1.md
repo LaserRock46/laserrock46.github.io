@@ -36,6 +36,9 @@ Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględni
 Tutaj przydała się umiejętność obsługi blendera, model został pocięty na elementy pancerza i oczyszczony z zbędnych detali które mogły by wpłynąć na wyniki.
 Każdy mesh zawiera collider i komponent ArmorPanel w którym są zapisane grubość i typ pancerza.
 
+W skrypcie ArmorTypesData są zapisane rodzaje pancerza i współczynnik RHA
+<script src="https://gist.github.com/LaserRock46/0fc301530d2f9433ad49d954d342e1ad"></script>
+
 #### Efektywna grubość pancerza
 
 <video width="100%" title="" loop="" autoplay="" playsinline="" muted="true">
