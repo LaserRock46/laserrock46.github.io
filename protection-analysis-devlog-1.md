@@ -19,7 +19,7 @@ System wyświetla informacje o:
 * Kąt uderzenia pocisku
 * Konstrukcyjny kąt nachylenia pancerza
 
-Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględnieniem 
+Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględnieniem jej utraty na dystansie i uwzględnieniu kąta przy którym pocisk na pewno zrykoszetuje system oceniania czy jest możliwa penetracja lub rykoszet.
 
 
 ## [back](./)
