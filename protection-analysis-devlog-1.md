@@ -46,6 +46,7 @@ W skrypcie ArmorTypesData są zapisane rodzaje pancerza i współczynnik RHA
 <source src="/docs/assets/videos/Test Effective Thickness.mp4" type="video/mp4">
 </video>
 
+<script src="https://gist.github.com/LaserRock46/97423155de41946796df2f54e5456e99.js"></script>
 
 #### Pozostałe czynniki
 
