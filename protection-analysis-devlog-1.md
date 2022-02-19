@@ -5,7 +5,7 @@ description: Udało mi się zaimplementować wiele mechanik z systemów penetrac
 ---
 
 
-<video width="100%" title="" loop="" autoplay="" playsinline="" muted="true">
+<video width="150%" title="" loop="" autoplay="" playsinline="" muted="true">
 <source src="/docs/assets/videos/Penetration Calculator_Trim.mp4" type="video/mp4">
 </video>
 
