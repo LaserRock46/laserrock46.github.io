@@ -5,7 +5,7 @@ description: Udało mi się zaimplementować wiele mechanik z systemów penetrac
 ---
 
 
-<video width="150%" title="" loop="" autoplay="" playsinline="" muted="true">
+<video width="160%" title="" loop="" autoplay="" playsinline="" muted="true">
 <source src="/docs/assets/videos/Penetration Calculator_Trim.mp4" type="video/mp4">
 </video>
 
@@ -36,19 +36,24 @@ Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględni
 Tutaj przydała się umiejętność obsługi blendera, model został pocięty na elementy pancerza i oczyszczony z zbędnych detali które mogły by wpłynąć na wyniki.
 Każdy mesh zawiera collider i komponent ArmorPanel w którym są zapisane grubość i typ pancerza.
 
-W skrypcie ArmorTypesData są zapisane rodzaje pancerza i współczynnik RHA
+W skrypcie ArmorTypesData są zapisane rodzaje pancerza i współczynniki RHA
 
 <script src="https://gist.github.com/LaserRock46/0fc301530d2f9433ad49d954d342e1ad.js"></script>
 
 #### Efektywna grubość pancerza
 
-<video width="100%" title="" loop="" autoplay="" playsinline="" muted="true">
+<video width="120%" title="" loop="" autoplay="" playsinline="" muted="true">
 <source src="/docs/assets/videos/Test Effective Thickness.mp4" type="video/mp4">
 </video>
 
-<script src="https://gist.github.com/LaserRock46/97423155de41946796df2f54e5456e99.js"></script>
+Na tym video widać jak testuję czy wynik algorytmu pokrywa się z rzeczywistością.
+Czerwona linia zaczyna się w miejscu w które trafił raycast a kończy na tylnej płaszczyźnie której pozycję obliczył algorytm.
+Jak widać obliczenia pokrywają się z rzeczywistą grubością mesha. Pod kątem 60* efektywna grubość podwaja się, również w War Thunder pod tym samym kątem grubość się podwoiła co oznacza że algorytm działa.
 
-#### Pozostałe czynniki
+Algorytm polega na sprawdzeniu odległości od punktu uderzenia (armorFrontSurface) do punktu przecięcia z płaszczyzną (armorBackSurface).
+Pozycja (armorBackSurface) jest odsunięta na podstawie normal vector miejsca w które uderzył pocisk i grubości pancerza.
+
+<script src="https://gist.github.com/LaserRock46/97423155de41946796df2f54e5456e99.js"></script>
 
 
 
