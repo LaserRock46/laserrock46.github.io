@@ -5,7 +5,7 @@ description:
 ---
 
 
-<video width="160%" title="" loop="" autoplay="" playsinline="" muted="true">
+<video width="110%" title="" loop="" autoplay="" playsinline="" muted="true">
 <source src="https://v.redd.it/nyk0exefe6j81/DASH_720.mp4" type="video/mp4">
 </video>
 
