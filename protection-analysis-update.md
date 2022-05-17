@@ -28,21 +28,13 @@ System wyświetla informacje o:
 * Konstrukcyjny kąt nachylenia pancerza
 
 Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględnieniem jej utraty na dystansie i uwzględnieniu kąta przy którym pocisk na pewno zrykoszetuje system oceniania czy jest możliwa penetracja lub rykoszet.
+   
+  <p float="left">
+  <img src="/docs/assets/images/Screenshot%(64).png" width="100" />
+  <img src="/docs/assets/images/Screenshot%(65).png" width="100" /> 
+  <img src="/docs/assets/images/Screenshot%(66).png" width="100" />
+</p>
 
- <div id="banner" style="overflow: hidden;justify-content:space-around;">
-    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="/docs/assets/images/Screenshot%(64).png">
-    </div>
-
-    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="/docs/assets/images/Screenshot%(65).png">
-    </div>
-
-    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="/docs/assets/images/Screenshot%(66).png">
-    </div>
-    </div>
-  
 ### Implementacja
 
 #### Elementy pancerza
