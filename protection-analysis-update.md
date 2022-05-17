@@ -30,9 +30,9 @@ System wyświetla informacje o:
 Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględnieniem jej utraty na dystansie i uwzględnieniu kąta przy którym pocisk na pewno zrykoszetuje system oceniania czy jest możliwa penetracja lub rykoszet.
    
   <p float="left">
-  <img src="/docs/assets/images/Screenshot (64).png" width="100" />
-  <img src="/docs/assets/images/Screenshot (65).png" width="100" /> 
-  <img src="/docs/assets/images/Screenshot (66).png" width="100" />
+  <img src="/docs/assets/images/Screenshot (64).png" width="400" />
+  <img src="/docs/assets/images/Screenshot (65).png" width="400" /> 
+  <img src="/docs/assets/images/Screenshot (66).png" width="400" />
 </p>
 
 ### Implementacja
