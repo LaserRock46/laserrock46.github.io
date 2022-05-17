@@ -17,22 +17,6 @@ Celem zadania było dodanie do istniejącego systemu wizualizacji kalkulatora pe
 
 [https://github.com/LaserRock46/WT-XRay](https://github.com/LaserRock46/WT-XRay)
 
-<img src="/docs/assets/images/Screenshot (64)" title="" style="width: 50%;">
-
- <div id="banner">
-    <div class="inline-block">
-        <img src ="/docs/assets/images/Screenshot (64)">
-    </div>
-
-    <div class="inline-block">
-        <img src ="/docs/assets/images/Screenshot (65)">
-    </div>
-
-    <div class="inline-block">
-        <img src ="/docs/assets/images/Screenshot (66)">
-    </div>
-</div>
-
 ### Funkcje
 
 System wyświetla informacje o:
@@ -45,6 +29,20 @@ System wyświetla informacje o:
 
 Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględnieniem jej utraty na dystansie i uwzględnieniu kąta przy którym pocisk na pewno zrykoszetuje system oceniania czy jest możliwa penetracja lub rykoszet.
 
+ <div id="banner" style="overflow: hidden;justify-content:space-around;">
+    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+        <img src="/docs/assets/images/Screenshot (64).png">
+    </div>
+
+    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+        <img src="/docs/assets/images/Screenshot (65).png">
+    </div>
+
+    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+        <img src="/docs/assets/images/Screenshot (66).png">
+    </div>
+    </div>
+  
 ### Implementacja
 
 #### Elementy pancerza
