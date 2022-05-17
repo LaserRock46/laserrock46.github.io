@@ -31,15 +31,15 @@ Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględni
 
  <div id="banner" style="overflow: hidden;justify-content:space-around;">
     <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="/docs/assets/images/Screenshot (64).png">
+        <img src="/docs/assets/images/Screenshot%(64).png">
     </div>
 
     <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="/docs/assets/images/Screenshot (65).png">
+        <img src="/docs/assets/images/Screenshot%(65).png">
     </div>
 
     <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="/docs/assets/images/Screenshot (66).png">
+        <img src="/docs/assets/images/Screenshot%(66).png">
     </div>
     </div>
   
