@@ -25,6 +25,9 @@ System wyświetla informacje o:
 
 Na podstawie tych danych, informacji o wartości penetracji pocisku z uwzględnieniem jej utraty na dystansie i uwzględnieniu kąta przy którym pocisk na pewno zrykoszetuje system oceniania czy jest możliwa penetracja lub rykoszet.
 
+Od teraz podczas symulacji zachowanie pocisków odpowiada wynikowi kalkulatora penetracji.
+Pociski penetrują, rykoszetują i zatrzymują się na pancerzu.
+
 ### Implementacja
 
 #### Elementy pancerza
