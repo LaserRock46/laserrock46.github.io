@@ -24,4 +24,4 @@ description: Projekt taktycznego RPG z walką w czasie rzeczywistym inspirowany 
 
 <img src="/docs/assets/images/isometric shooter screen.png" title="isometric shooter screen" style="width: 100%;">
 
-<img src="/docs/assets/images/animator.png" title="animator" style="width: 100%;">
+<img src="/docs/assets/images/animator small.png" title="animator" style="width: 100%;">
