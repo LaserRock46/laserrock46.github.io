@@ -10,13 +10,14 @@ description: Projekt taktycznego RPG z walką w czasie rzeczywistym inspirowany 
 
 ## Co udało mi się do tej pory zrobić:
 
-### Animator i system poruszania
 
 ### UX: Praca kamery a celowanie
 
 ### Wizualizacja szans na trafienie i rozrzutu
 
+### Animator i system poruszania
 
+<img src="/docs/assets/images/animator small.png" title="animator" style="width: 100%;">
 
 <video width="160%" title="" loop="" autoplay="" playsinline="" muted="true">
 <source src="/docs/assets/videos/Isometric shooter rotate.mp4" type="video/mp4">
@@ -24,4 +25,4 @@ description: Projekt taktycznego RPG z walką w czasie rzeczywistym inspirowany 
 
 <img src="/docs/assets/images/isometric shooter screen.png" title="isometric shooter screen" style="width: 100%;">
 
-<img src="/docs/assets/images/animator small.png" title="animator" style="width: 100%;">
+
