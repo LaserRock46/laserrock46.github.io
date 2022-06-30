@@ -5,7 +5,7 @@ description: Jestem Robert Biały i uczę się tworzyć gry w Unity3D a to jest 
 ---
 ### Isometric RPG [WIP]
 
-<img src="/docs/assets/images/isometric shooter screen.png" title="isometric shooter screen" style="width: 60%;">
+<img src="/docs/assets/images/screen small.png" title="isometric shooter screen" style="width: 60%;">
 
 <video width="60%" title="Isometric RPG" loop="" autoplay="" playsinline="" muted="true">
 <source src="/docs/assets/videos/Isometric shooter overhead and cursor anchor.mp4" type="video/mp4">
