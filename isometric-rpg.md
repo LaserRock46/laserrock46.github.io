@@ -14,7 +14,7 @@ description: Projekt taktycznego RPG z walką w czasie rzeczywistym inspirowany 
 
 ### UX: Praca kamery a celowanie
 
-### Wizualizacja szans i miejsc trafień
+### Wizualizacja szans na trafienie i rozrzutu
 
 
 
