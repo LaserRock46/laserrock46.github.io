@@ -9,7 +9,7 @@ description: Projekt taktycznego RPG z walką w czasie rzeczywistym inspirowany 
 </video>
 
 <video width="160%" title="" loop="" autoplay="" playsinline="" muted="true">
-<source src="/docs/assets/videos/Isometric shooter overhead rotate.mp4" type="video/mp4">
+<source src="/docs/assets/videos/Isometric shooter rotate.mp4" type="video/mp4">
 </video>
 
 <img src="/docs/assets/images/isometric shooter screen.png" title="isometric shooter screen" style="width: 100%;">
