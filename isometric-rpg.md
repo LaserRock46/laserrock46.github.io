@@ -32,7 +32,7 @@ System który tak jak w wielu taktycznych grach pokazuje procentową wartość s
 <img src="/docs/assets/images/animator small.png" title="animator" style="width: 100%;">
 
 <video width="160%" title="" loop="" autoplay="" playsinline="" muted="true">
-<source src="/docs/assets/videos/Isometric shooter rotate.mp4" type="video/mp4">
+<source src="/docs/assets/videos/Isometric shooter rotate2.mp4" type="video/mp4">
 </video>
 
 
