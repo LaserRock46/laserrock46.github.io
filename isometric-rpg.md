@@ -4,11 +4,7 @@ title: Isometric Tactical RPG
 description: Projekt taktycznego RPG z walką w czasie rzeczywistym inspirowany klasycznym Falloutem
 ---
 
-<video width="160%" title="" loop="" autoplay="" playsinline="" muted="true">
-<source src="https://youtu.be/uTK1imkOC5w" type="video/mp4">
-</video>
-
-https://youtu.be/uTK1imkOC5w
+<iframe src="https://www.youtube.com/embed/uTK1imkOC5w?vq=hd1080&autoplay=1&rel=0&yt:cc=on" width="560" height="315" title="Unnamed Post Apocalyptic Isometric RPG" frameborder="0" allowfullscreen></iframe>
 
 ## Co udało mi się do tej pory zrobić:
 
