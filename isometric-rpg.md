@@ -5,22 +5,24 @@ description: Projekt taktycznego RPG z walką w czasie rzeczywistym inspirowany 
 ---
 
 <video width="160%" title="" loop="" autoplay="" playsinline="" muted="true">
-<source src="/docs/assets/videos/Isometric shooter overhead and cursor anchor.mp4" type="video/mp4">
+<source src="https://youtu.be/uTK1imkOC5w" type="video/mp4">
 </video>
+
+https://youtu.be/uTK1imkOC5w
 
 ## Co udało mi się do tej pory zrobić:
 
+### Wizualizacja szans na trafienie i rozrzutu
+
+System który tak jak w wielu taktycznych grach pokazuje procentową wartość szans na trafienie i rozrzut.
+
+### Taunts (odzywki)
+
+System werbalnej reakcji przeciwnika na zadane obrażenia, często bardzo wulgarnej. Pozwoliłem sobie skopiować kilka odzywek z Fallout 2.
 
 ### UX: Praca kamery a celowanie
 
 Dodałem funkcję która podczas obrotu kamery blokuje kursor w miejscu w które celuje gracz, działanie można zobaczyć na powyższym video. To ważne bo gra jest w czasie rzeczywistym. 
-
-
-### Wizualizacja szans na trafienie i rozrzutu
-
-System który tak jak w wielu taktycznych grach pokazuje procentową wartość szans na trafienie bazując na odległości i rozrzucie.
-
-<img src="/docs/assets/images/isometric shooter screen.png" title="isometric shooter screen" style="width: 100%;">
 
 ### Animator i system poruszania
 
@@ -31,9 +33,7 @@ System który tak jak w wielu taktycznych grach pokazuje procentową wartość s
 
 <img src="/docs/assets/images/animator small.png" title="animator" style="width: 100%;">
 
-<video width="160%" title="" loop="" autoplay="" playsinline="" muted="true">
-<source src="/docs/assets/videos/Isometric shooter rotate2.mp4" type="video/mp4">
-</video>
+
 
 
 
