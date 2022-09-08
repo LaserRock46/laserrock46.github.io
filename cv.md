@@ -18,6 +18,11 @@ Chciałbym zdobyć umiejętność pisania wysokiej jakości kodu i obsługi komp
 * Animation Rigging Packege
 * Optymalizacja, Profiler
 
+### Version Control
+
+* GitHub
+* PlasticSCM
+
 #### Blender (Podstawy)
 
 #### Gimp (Podstawy)
