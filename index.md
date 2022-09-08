@@ -3,6 +3,7 @@ layout: default
 title: Cześć!
 description: Jestem Robert Biały a to jest strona z moim portfolio.
 ---
+
 ### Isometric RPG [WIP]
 
 <img src="/docs/assets/images/screen small.png" title="isometric shooter screen" style="width: 60%;">
@@ -15,6 +16,10 @@ description: Jestem Robert Biały a to jest strona z moim portfolio.
 </video>
 
 [Zobacz więcej >>](./conveyor-belts.html)
+
+### Zadanie rekrutacyjne - ARKANOID
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9joxG7b8tTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Protection analysis z War Thunder - Aktualizacja
 <video width="60%" title="Protection Analysis." loop="" autoplay="" playsinline="" muted="true">
