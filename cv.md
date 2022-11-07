@@ -27,6 +27,12 @@ Chciałbym zdobyć umiejętność pisania wysokiej jakości kodu i obsługi komp
 
 #### Gimp (Podstawy)
 
+### Języki
+
+* Polski 
+* Angielski - Czytanie dokumentacji i rozumienie video konferencji nie stanowi dla mnie problemu.
+* Ukraiński - Umiem już czytać, docelowo ma służyć do grania w STALKERa.
+
 ### Zainteresowania
 
 #### Gry
