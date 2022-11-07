@@ -18,7 +18,19 @@ Chciałbym zdobyć umiejętność pisania wysokiej jakości kodu i obsługi komp
 * Animation Rigging Packege
 * Optymalizacja, Profiler
 
-### Version Control
+#### C# i programowanie
+
+Mam jakieś pojęcie o:
+
+* Patterns: Singleton, Command Pattern, Component Pattern, Scriptable Object Pattern
+* Różnice pomiędzy Interface vs. Virtual vs. Abstract
+* Czym jest GC Allocation
+* Różnica pomiędzy Class vs Struct
+* Zasady: Don't Repeat Yourself, Single-responsibility Principle
+* Magic Methods (Update etc.) i ich performance
+* event keyword
+
+#### Version Control
 
 * GitHub
 * PlasticSCM
