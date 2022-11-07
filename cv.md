@@ -28,7 +28,8 @@ Mam jakieś pojęcie o:
 * Różnica pomiędzy Class vs Struct
 * Zasady: Don't Repeat Yourself, Single-responsibility Principle
 * Magic Methods (Update etc.) i ich performance
-* event keyword
+* event, ref, out keyword
+* Tuple
 
 #### Version Control
 
