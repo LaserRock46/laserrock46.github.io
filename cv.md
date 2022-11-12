@@ -22,7 +22,7 @@ Chciałbym zdobyć umiejętność pisania wysokiej jakości kodu i obsługi komp
 
 Mam jakieś pojęcie o:
 
-* Patterns: Singleton, Command Pattern, Component Pattern, Scriptable Object Pattern
+* Patterns: Singleton, Command Pattern, Component Pattern, Scriptable Object Pattern, State Pattern
 * Różnice pomiędzy Interface vs. Virtual vs. Abstract
 * Czym jest GC Allocation
 * Różnica pomiędzy Class vs Struct
@@ -30,6 +30,7 @@ Mam jakieś pojęcie o:
 * Magic Methods (Update etc.) i ich performance
 * Keywords: event, ref, out etc.
 * Tuple
+* Lambda Expression
 
 #### Version Control
 
