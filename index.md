@@ -42,8 +42,5 @@ description: Jestem Robert Biały a to jest strona z moim portfolio.
 
 [Zobacz więcej >>](./hypercasual-game.html)
 
-### Tesla Energy Graph
-<video width="60%" title="Odtworzyłem wygląd panelu energii z Tesli Model 3. Ten komponent może zostać łatwo zaimplementowany w jakiejś grze ekonomicznej." loop="" autoplay="" playsinline="" muted="true">
-<source src="https://v.redd.it/0sgqgz9r92m41/DASH_480" type="video/mp4">
-</video>
+
 
