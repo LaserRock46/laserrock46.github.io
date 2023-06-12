@@ -8,6 +8,11 @@ description: Robert Biały
 
 Chciałbym zdobyć umiejętność pisania wysokiej jakości kodu i obsługi komponentów Unity odpowiedzialnych za grafikę.
 
+### Doświadczenie komercyjne
+
+#### Freelance dla DeGenerals 10.2022-01.2023
+Realistyczny system penetracji i wizualizacji obrażeń dla broni pancernej inspirowany grą War Thunder
+
 ### Umiejętności
 
 #### Unity 
@@ -20,7 +25,6 @@ Chciałbym zdobyć umiejętność pisania wysokiej jakości kodu i obsługi komp
 
 #### C# i programowanie
 
-Mam jakieś pojęcie o:
 
 * Patterns: Singleton, Command Pattern, Component Pattern, Scriptable Object Pattern, State Pattern
 * Różnice pomiędzy Interface vs. Virtual vs. Abstract
@@ -45,7 +49,7 @@ Mam jakieś pojęcie o:
 
 * Polski 
 * Angielski - Czytanie dokumentacji i rozumienie video konferencji nie stanowi dla mnie problemu.
-* Ukraiński - Umiem już czytać, docelowo ma służyć do grania w STALKERa.
+
 
 ### Zainteresowania
 
