@@ -3,6 +3,12 @@ layout: default
 title: Cześć!
 description: Jestem Robert Biały a to jest strona z moim portfolio.
 ---
+### Projekt hypercasualowej gry mobilnej
+<video width="30%" title="Hypercasual" loop="" autoplay="" playsinline="" muted="true">
+<source src="https://v.redd.it/h0qwgkgnqj081/DASH_480.mp4" type="video/mp4">
+</video>
+
+[Zobacz więcej >>](./hypercasual-game.html)
 
 ### Isometric RPG [WIP]
 
@@ -35,12 +41,7 @@ description: Jestem Robert Biały a to jest strona z moim portfolio.
 
 [Zobacz więcej >>](./protection-analysis.html)
 
-### Projekt hypercasualowej gry mobilnej
-<video width="30%" title="Hypercasual" loop="" autoplay="" playsinline="" muted="true">
-<source src="https://v.redd.it/h0qwgkgnqj081/DASH_480.mp4" type="video/mp4">
-</video>
 
-[Zobacz więcej >>](./hypercasual-game.html)
 
 
 
