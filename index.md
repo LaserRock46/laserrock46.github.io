@@ -40,12 +40,5 @@ description: Jestem Robert Biały a to jest strona z moim portfolio.
 [Zobacz więcej >>](./protection-analysis.html)
 
 
-<video width="60%" title="Protection Analysis." loop="" autoplay="" playsinline="" muted="true">
-<source src="https://drive.google.com/file/d/1g4KGAVS6JZs4i-pP2N1aNvJN1uhUknEO/view?usp=drive_link" type="video/mp4">
-</video>
-<video width="60%" title="Protection Analysis." loop="" autoplay="" playsinline="" muted="true">
-<source src="https://drive.google.com/file/d/1g4KGAVS6JZs4i-pP2N1aNvJN1uhUknEO/preview" type="video/mp4">
-</video>
-
 <iframe src="https://drive.google.com/file/d/1g4KGAVS6JZs4i-pP2N1aNvJN1uhUknEO/preview"
         width="640" height="360" allow="autoplay" allowfullscreen></iframe>
