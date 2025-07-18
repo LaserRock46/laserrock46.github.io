@@ -16,7 +16,7 @@ description: Jestem Robert Biały a to jest strona z moim portfolio.
 <source src="https://v.redd.it/7bzxichn2a071/DASH_480.mp4" type="video/mp4">
 </video>
 
-### Czworonożny Robot oparty na Articulation Bodies
+### Czworonożny Robot oparty na fizyce Articulation Bodies
 <video width="60%" title="Conveyor Belts" loop="" autoplay="" playsinline="" muted="true">
 <source src="docs/assets/videos/quadruped%20robot.mp4" type="video/mp4">
 </video>
