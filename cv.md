@@ -14,6 +14,7 @@ Realistyczny system penetracji i wizualizacji obrażeń dla broni pancernej insp
 
 #### Unity 
 
+* Android Logcat
 * Tworzenie proceduralnych meshy
 * Shader Graph
 * Animator
