@@ -10,11 +10,6 @@ description: Jestem Robert Biały a to jest strona z moim portfolio.
 
 [Zobacz więcej >>](./hypercasual-game.html)
 
-### Isometric RPG [WIP]
-
-<img src="/docs/assets/images/screen small.png" title="isometric shooter screen" style="width: 60%;">
-
-[Zobacz więcej >>](./isometric-rpg.html)
 
 ### Conveyor Belts z Satisfactory
 <video width="60%" title="Conveyor Belts" loop="" autoplay="" playsinline="" muted="true">
@@ -23,7 +18,7 @@ description: Jestem Robert Biały a to jest strona z moim portfolio.
 
 [Zobacz więcej >>](./conveyor-belts.html)
 
-### Zadanie rekrutacyjne - ARKANOID
+### ARKANOID
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9joxG7b8tTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
