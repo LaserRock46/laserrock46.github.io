@@ -4,9 +4,6 @@ title: CV
 description: Robert Biały
 ---
 
-### Cel
-
-Chciałbym zdobyć umiejętność pisania wysokiej jakości kodu i obsługi komponentów Unity odpowiedzialnych za grafikę.
 
 ### Doświadczenie komercyjne
 
@@ -20,26 +17,29 @@ Realistyczny system penetracji i wizualizacji obrażeń dla broni pancernej insp
 * Tworzenie proceduralnych meshy
 * Shader Graph
 * Animator
-* Animation Rigging Packege
-* Optymalizacja, Profiler
+* Animation Rigging
+* Localization
+* New Input System
+* Analysis - Profiler, Frame Debugger
+* Tworzenie customowych narzędzi i atrybutów
 
 #### C# i programowanie
 
-
-* Patterns: Singleton, Command Pattern, Component Pattern, Scriptable Object Pattern, State Pattern
-* Różnice pomiędzy Interface vs. Virtual vs. Abstract
+* Patterns: Singleton, Command Pattern, Component Pattern, Observer, Scriptable Object Pattern, State Pattern
 * Czym jest GC Allocation
 * Różnica pomiędzy Class vs Struct
 * Zasady: Don't Repeat Yourself, Single-responsibility Principle
-* Magic Methods (Update etc.) i ich performance
+* Unity Messages (Update etc.) i ich performance
 * Keywords: event, ref, out etc.
 * Tuple
+* Anonymous Methods
 * Lambda Expression
+* Różnice pomiędzy Virtual i Abstract
 
 #### Version Control
 
 * GitHub
-* PlasticSCM
+* PlasticSCM / Unity Version Control
 
 #### Blender (Podstawy)
 
@@ -64,7 +64,7 @@ W grach cenię sobie:
 
 #### Muzyka
 
-Najbardziej lubię słuchać Tool
+Najbardziej lubię słuchać Tool, Korn, Slipknot, Gojira, Rammstein, Ghost
 
 
 ## [back](./)
