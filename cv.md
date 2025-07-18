@@ -4,6 +4,9 @@ title: CV
 description: Robert Biały
 ---
 
+### O mnie
+
+Mam 27 lat i mieszkam w województwie Kujawsko-Pomorskim pod Inowrocławiem
 
 ### Doświadczenie komercyjne
 
