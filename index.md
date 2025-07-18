@@ -21,6 +21,10 @@ description: Jestem Robert Biały a to jest strona z moim portfolio.
 <source src="docs/assets/videos/quadruped%20robot.mp4" type="video/mp4">
 </video>
 
+### Ogr | Proceduralna animacja trafień z użyciem Animation Rigging
+<iframe src="https://drive.google.com/file/d/1-wi6Tq8YC2kKbiJ_zT2U01i6P1c2UwcS/preview"
+        width="640" height="360" allow="autoplay" allowfullscreen></iframe>
+
 ### ARKANOID
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9joxG7b8tTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,5 +44,4 @@ description: Jestem Robert Biały a to jest strona z moim portfolio.
 [Zobacz więcej >>](./protection-analysis.html)
 
 
-<iframe src="https://drive.google.com/file/d/1g4KGAVS6JZs4i-pP2N1aNvJN1uhUknEO/preview"
-        width="640" height="360" allow="autoplay" allowfullscreen></iframe>
+
